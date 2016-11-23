@@ -62,7 +62,7 @@ public class LListadoAsistencia {
            cellName.setCellType(Cell.CELL_TYPE_BLANK);      //escribimos  el nombre
            cellName.setCellValue(aprendiz.getNombres()+" "+aprendiz.getApellidos());
            
-           
+           // hola fabi roa p 11
                                  
                                                      
           ArrayList<String> asistencias= aprendiz.getAsistencia(); // obtenemos el listado de asistencia para el aprendiz en curso
